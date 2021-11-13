@@ -1,0 +1,9 @@
+ja:
+  activerecord:
+    models:
+      room: 会議室
+    attributes:
+      room:
+        name: 会議室名
+        place: 場所
+        number: 参加人数

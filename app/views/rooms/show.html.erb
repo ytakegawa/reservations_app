@@ -1,17 +1,17 @@
 <p id="notice"><%= notice %></p>
 
 <p>
-  <strong>Name:</strong>
+  <strong><%= Room.human_attribute_name('name') %></strong>
   <%= @room.name %>
 </p>
 
 <p>
-  <strong>Place:</strong>
+  <strong><%= Room.human_attribute_name('place') %></strong>
   <%= @room.place %>
 </p>
 
 <p>
-  <strong>Number:</strong>
+  <strong><%= Room.human_attribute_name('number') %></strong>
   <%= @room.number %>
 </p>
 

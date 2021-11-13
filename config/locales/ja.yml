@@ -1,0 +1,12 @@
+ja:
+  hello: "ようこそ会議室予約アプリへ"
+  rooms: 会議室
+  name: 会議室名
+  place: 場所
+  number: 参加人数
+  button:
+    edit: 編集
+    back: 戻る
+    show: 詳細
+    index: 一覧
+    destroy: 削除
